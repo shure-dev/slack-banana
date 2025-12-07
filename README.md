@@ -1,6 +1,8 @@
 # slack-banana
 
-<img alt="slack-banana demo" src="images/image.png" />
+<p align="center">
+  <img alt="slack-banana demo" src="images/image.png" width="600" />
+</p>
 
 Slackのスレッド内容をAIでインフォグラフィック画像に変換するBotです。
 
