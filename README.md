@@ -1,5 +1,7 @@
 # slack-banana
 
+<img alt="slack-banana demo" src="images/image.png" />
+
 Slackのスレッド内容をAIでインフォグラフィック画像に変換するBotです。
 
 スレッド内でBotをメンションするだけで、会話の内容を1枚のわかりやすい画像にまとめてくれます。
